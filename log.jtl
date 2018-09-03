@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1535948776431,198,recom-app,200,OK,Thread Group 1-1,text,true,,612,706,1,1,197,0,143
